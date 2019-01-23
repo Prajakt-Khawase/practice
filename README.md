@@ -10,7 +10,6 @@
  1. Ramesh
  
 ## Unordered List
-
   -Ravi
   -Suresh
   -Ramesh
